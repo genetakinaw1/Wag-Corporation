@@ -1,4 +1,4 @@
 package com.wagcorporation.java;
 
-public interface Widget {
+public class Widget implements AbstractDevice,Icomponent {
 }

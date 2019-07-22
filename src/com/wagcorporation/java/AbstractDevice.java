@@ -1,7 +1,7 @@
 package com.wagcorporation.java;
 
 public class AbstractDevice {
-    public abstract class AbstractDevice {
+    public abstract  AbstractDevice {
         private int serialNumber;
         private DeviceColor color;
         private DeviceSize size;
